@@ -20,3 +20,6 @@ void PrintArray(string[] array)
     }
     
 }
+ArrayComp(array1, array2);
+PrintArray(array2);
+
